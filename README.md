@@ -2,7 +2,7 @@
 
 Percobaan ini dilakukan untuk mengetahui pengaruh tingkat pendidikan orang tua, jenis makan siang, dan *test preparation course* terhadap prestasi siswa khususnya pada pelajaran matematika.
 
-Data merupakan kumpulan nilai ujian matematika, membaca, dan menulis siswa sekolah menengah di Amerika Serikat, yang diperoleh dari platform [kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams), yanag diakses pada 11 januari 2022.
+Data merupakan kumpulan nilai ujian matematika, membaca, dan menulis siswa sekolah menengah di Amerika Serikat, yang diakses pada 11 januari 2022 dari platform [kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams).
 
 Data terdiri dari 1000 baris dan 8 kolom, yaitu *gender, race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score,* dan *writing score.*
 
