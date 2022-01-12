@@ -37,6 +37,8 @@ Akan dicari tahu:
 
   Dari pemaparan di atas, terdapat dua faktor yang berpengaruh pada nilai ujian matematika siswa, yaitu jenis makan siang dan *test preparation course*. Hal yang mungkin dapat dilakukan ntuk memperbaiki nilai matematika siswa, yaitu dengan memastikan setiap siswa mendapatkan makan siang *standard* dan mengikuti *test preparation course* dengan baik.
 
+> Detail program dapat diakses pada link [berikut](https://colab.research.google.com/drive/1lQ9qNI-0WYT3rxS7Umxd4P5m8m2O-US8?usp=sharing).
+
 ### Rabu, 12 Januari 2022
 
 ### Muhamad Abdul Karim
